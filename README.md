@@ -34,7 +34,7 @@ username, usermail, userphone, user orders
 Bunda 
 foydalanuvchini ismi, email, telefon raqami, va buyurtmasini Bazaga saqkab olamiz
 
-<img src="screenshot/aligator_9_orders.png" width="800">
+<img src="screenshot/orders.png" width="800">
 
 
 # Ajax Search Product
@@ -48,7 +48,7 @@ foydalanuvchini ismi, email, telefon raqami, va buyurtmasini Bazaga saqkab olami
 
 # Kommentariya va javob kommentariya Ajax bilan
 
-<img src="screenshot/aligator_comment%20and%20comments%20answer.png" width="800">
+<img src="screenshot/product_page_comment.png" width="800">
 
 # Product blade view
   Slider product image and zoom product image, carusel image
@@ -56,8 +56,8 @@ foydalanuvchini ismi, email, telefon raqami, va buyurtmasini Bazaga saqkab olami
 # Product blade saxifamizdi kurinishi 
   Bu saxifada Slider,carusel va rasmni kotta qilib kurish mumkin
 
-<img src="screenshot/aligator_product_blade.png" width="800">
-
+<img src="screenshot/product_page.png" width="800">
+<img src="screenshot/product_page_2.png" width="800">
 
 # User Profile
   upload and delete avatar with AJAX
